@@ -1,0 +1,3 @@
+keyboard
+g4f
+python-docx
